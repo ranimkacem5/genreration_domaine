@@ -1,0 +1,190 @@
+le premier question standard 
+Quelle activité vous motive le plus dans votre travail quotidien ?
+a. Développer et maintenir des applications logicielles (web ,mobile,logiciel)
+b. Examiner et interpréter les données afin de dégager des insights et des conclusions.
+c. Configurer et gérer les infrastructures système et les serveurs
+d. Protéger les systèmes contre les menaces de sécurité
+
+
+Branche "Software Development" (si réponse "a") :
+Quelle est votre expérience avec le développement logiciel ?
+a. Aucune expérience
+b. Débutant (moins de 2 ans)
+c. Intermédiaire (2-5 ans)
+d. Avancé (plus de 5 ans)
+
+Quelles technologies utilisez-vous le plus fréquemment ?
+a. Frameworks front-end (React, Angular)
+b. Langages back-end (Java, C#, Python)
+c. Développement mobile (Swift, Kotlin)
+d. DevOps et automatisation (Docker, Kubernetes)
+
+Quel aspect du développement logiciel préférez-vous ?
+a. Conception de l'interface utilisateur (UI/UX)
+b. Implémentation de la logique métier
+c. Optimisation des performances et sécurité
+d. Déploiement et intégration continue
+
+Avez-vous de l'expérience avec les méthodologies de développement Agile ?
+a. Oui, Scrum
+b. Oui, Kanban
+c. Oui, d'autres méthodologies
+d. Non, aucune expérience
+
+À quel niveau êtes-vous familier avec les pratiques de test de logiciels ?
+a. Tests unitaires
+b. Tests d'intégration
+c. Tests de performance
+d. Aucun type de test
+
+Travaillez-vous souvent sur des projets en équipe ?
+a. Oui, avec des outils de collaboration (Git, Jira)
+b. Oui, mais rarement avec des outils de collaboration
+c. Non, surtout des projets individuels
+d. Parfois, cela dépend du projet
+
+Quelle est votre expérience avec les architectures modernes (microservices, cloud-native) ?
+a. Avancé, je travaille régulièrement avec ces architectures
+b. Intermédiaire, j'ai participé à quelques projets
+c. Débutant, je commence à les apprendre
+d. Aucune expérience
+
+
+Si réponse "b" : Data Science
+
+
+Avez-vous une préférence pour l'analyse de données structurées (tableaux) ou non structurées (images, texte) ?
+a. Données structurées uniquement
+b. Principalement des données structurées, mais je suis ouvert aux données non structurées
+c. Données non structurées uniquement
+d. Pas de préférence, je suis à l'aise avec les deux
+
+Quelle est votre expérience avec les bibliothèques de machine learning (comme TensorFlow, scikit-learn) ?
+a. Aucune expérience, je n'ai jamais utilisé ces bibliothèques
+b. Débutant, j'ai utilisé quelques bibliothèques pour des projets simples
+c. Intermédiaire, j'ai travaillé sur plusieurs projets incluant du machine learning
+d. Avancé, je les utilise régulièrement pour des projets complexes
+
+Préférez-vous travailler sur la visualisation de données ou sur l'entraînement de modèles prédictifs ?
+a. Je préfère uniquement la visualisation de données
+b. Principalement la visualisation, mais je m'intéresse aux modèles prédictifs
+c. Principalement l'entraînement de modèles prédictifs, mais je fais parfois de la visualisation
+d. J'aime les deux aspects de manière égale
+
+À quel point êtes-vous à l'aise avec les langages de programmation pour les données (Python, R) ?
+a. Pas du tout à l'aise, je n'ai jamais utilisé ces langages
+b. Débutant, je connais les bases
+c. Intermédiaire, j'ai une certaine expérience en développement avec ces langages
+d. Avancé, je maîtrise bien ces langages et les utilise régulièrement
+
+Avez-vous de l'expérience dans le nettoyage et la préparation des jeux de données ?
+a. Non, je n'ai jamais travaillé sur le nettoyage de données
+b. J'ai une expérience limitée dans le nettoyage des données
+c. J'ai souvent travaillé sur la préparation de données pour mes projets
+d. Je suis très expérimenté, c'est une partie régulière de mon travail
+
+Utilisez-vous souvent les techniques de traitement de données massives (Big Data) ?
+a. Non, je n'ai jamais travaillé avec des techniques de Big Data
+b. J'ai une connaissance de base, mais je ne les utilise pas régulièrement
+c. J'utilise occasionnellement des techniques de Big Data pour certains projets
+d. J'utilise fréquemment les techniques de Big Data dans mes projets
+
+À quel point êtes-vous familier avec les outils de visualisation de données (Matplotlib, Tableau) ?
+a. Pas familier du tout, je n'ai jamais utilisé ces outils
+b. Débutant, j'ai utilisé ces outils pour des visualisations simples
+c. Intermédiaire, je les utilise régulièrement pour des projets divers
+d. Avancé, je maîtrise bien ces outils et je les utilise pour créer des visualisations complexes
+
+Branche "System Administration" (si réponse "c") :
+Préférez-vous travailler avec les systèmes d'exploitation Linux ou Windows ?
+a. Principalement Linux, je le trouve plus flexible
+b. Principalement Windows, j'ai plus d'expérience avec ce système
+c. J'aime les deux, cela dépend du projet
+d. Aucune préférence, je suis à l'aise avec les deux
+
+Avez-vous de l'expérience avec les outils de virtualisation (comme VMware, VirtualBox) ?
+a. Oui, je les utilise régulièrement
+b. Oui, mais seulement pour des tests occasionnels
+c. J'ai une connaissance de base, mais je ne les utilise pas souvent
+d. Non, je n'ai aucune expérience avec ces outils
+
+À quel point êtes-vous à l'aise avec l'administration de serveurs web (Apache, Nginx) ?
+a. Très à l'aise, je les configure et les administre régulièrement
+b. Assez à l'aise, j'ai configuré quelques serveurs web
+c. Je suis débutant, j'ai seulement une expérience limitée
+d. Pas du tout à l'aise, je n'ai jamais administré de serveurs web
+
+Avez-vous déjà configuré des systèmes de sauvegarde et de restauration ?
+a. Oui, je les configure et les gère régulièrement
+b. Oui, mais uniquement pour des projets spécifiques
+c. J'ai une connaissance de base, mais je n'ai pas beaucoup d'expérience pratique
+d. Non, je n'ai jamais configuré de systèmes de sauvegarde
+
+Avez-vous de l'expérience avec les scripts d'automatisation (Bash, PowerShell) ?
+a. Oui, j'écris des scripts d'automatisation régulièrement
+b. Oui, mais uniquement pour des tâches occasionnelles
+c. J'ai écrit quelques scripts simples, mais je ne suis pas très expérimenté
+d. Non, je n'ai aucune expérience avec les scripts d'automatisation
+
+Avez-vous travaillé avec des systèmes de surveillance et de journalisation (Nagios, ELK) ?
+a. Oui, je les utilise régulièrement pour surveiller les systèmes
+b. Oui, mais uniquement pour quelques projets spécifiques
+c. J'ai une connaissance de base, mais je ne les utilise pas souvent
+d. Non, je n'ai jamais travaillé avec ces outils
+
+Quelle est votre expérience avec les environnements cloud (AWS, Azure) ?
+a. Avancé, je travaille régulièrement sur ces plateformes
+b. Intermédiaire, j'ai travaillé sur quelques projets cloud
+c. Débutant, j'ai seulement une connaissance de base
+d. Aucune expérience, je n'ai jamais travaillé avec le cloud
+
+
+
+
+
+Branche "Cybersecurity" (si réponse "d") :
+Quelle est votre expérience en matière d'évaluation des vulnérabilités et de tests d'intrusion ?
+a. Avancé, je réalise régulièrement des tests d'intrusion professionnels
+b. Intermédiaire, j'ai effectué quelques évaluations de vulnérabilités
+c. Débutant, j'ai seulement une expérience théorique ou limitée
+d. Aucune expérience, je n'ai jamais effectué de tests d'intrusion
+
+À quel point êtes-vous familier avec les principes de cryptographie ?
+a. Très familier, je les utilise régulièrement dans mon travail
+b. Assez familier, j'ai une bonne compréhension théorique et pratique
+c. Débutant, j'ai une connaissance de base des concepts
+d. Pas du tout familier, je n'ai jamais travaillé avec la cryptographie
+
+Avez-vous déjà configuré des pare-feu ou d'autres dispositifs de sécurité réseau ?
+a. Oui, je les configure et les administre régulièrement
+b. Oui, mais uniquement pour des projets spécifiques
+c. J'ai une connaissance de base et j'ai configuré quelques dispositifs
+d. Non, je n'ai jamais configuré de dispositifs de sécurité réseau
+
+Avez-vous de l'expérience avec les audits de sécurité et la conformité (ISO 27001, GDPR) ?
+a. Oui, j'ai mené plusieurs audits de sécurité et conformité
+b. Oui, j'ai participé à quelques audits, mais je n'en suis pas le responsable principal
+c. J'ai une connaissance de base des normes, mais peu d'expérience pratique
+d. Non, je n'ai aucune expérience avec les audits de sécurité
+
+Avez-vous utilisé des outils de détection d'intrusion (comme Snort) ou d'analyse de malwares ?
+a. Oui, je les utilise régulièrement dans mes tâches de sécurité
+b. Oui, mais uniquement à des fins d'apprentissage ou pour des projets limités
+c. J'ai une connaissance de base, mais je ne les utilise pas fréquemment
+d. Non, je n'ai jamais utilisé ces outils
+
+Quelle est votre connaissance des attaques courantes (phishing, injection SQL) et des mesures de prévention ?
+a. Avancé, je suis capable de les identifier et de mettre en œuvre des mesures de prévention
+b. Intermédiaire, j'ai une bonne compréhension théorique et pratique de ces attaques
+c. Débutant, je connais les concepts de base mais peu de techniques de prévention
+d. Aucune connaissance, je ne suis pas familier avec ces attaques
+
+Avez-vous déjà travaillé sur la sécurité des applications (OWASP, sécurité des API) ?
+a. Oui, j'ai une expérience approfondie dans l'application des pratiques OWASP
+b. Oui, j'ai travaillé sur quelques projets de sécurité des applications
+c. J'ai une connaissance de base des concepts, mais peu d'expérience pratique
+d. Non, je n'ai jamais travaillé sur la sécurité des applications
+
+
+
+
